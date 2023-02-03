@@ -1,2 +1,2 @@
 # CS1050
-This is some of the code of I wrote in my first Computer Science class.
+Code I wrote in CS1050 at Mizzou.
